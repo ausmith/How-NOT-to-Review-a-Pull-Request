@@ -24,4 +24,4 @@ and creativity blockers.
 
 ### Where has the Talk Been Accepted/Presented
 
-* [Heartifacts April 2018](https://codeandsupply.co/heartifacts)
+* [Heartifacts April 2018](https://codeandsupply.co/heartifacts) (no video yet)
