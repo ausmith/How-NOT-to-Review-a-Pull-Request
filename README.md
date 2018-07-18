@@ -24,4 +24,5 @@ and creativity blockers.
 
 ### Where has the Talk Been Accepted/Presented
 
-* [Heartifacts April 2018](https://codeandsupply.co/heartifacts) (no video yet)
+* [Heartifacts April 2018](https://codeandsupply.co/heartifacts) [video link](https://youtu.be/sBwbUVG7CDY)
+* [All Day DevOps 2018](https://www.alldaydevops.com/addo-speakers/aaron-goldsmith)
