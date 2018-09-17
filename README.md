@@ -11,7 +11,7 @@ A guide, through negative examples, of code review pitfalls.
 ### Slides
 
 * [Slides (Heartifacts)](https://docs.google.com/presentation/d/1wLlvyI7akh_ybmO0MyzbBROukulH-Tw82RcT8kBuuWg/edit?usp=sharing).
-* [Slides (DevOps MidWest)](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit?usp=sharing).
+* [Slides (DevOps Midwest)](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit?usp=sharing).
 
 ### Presentation Description
 
@@ -26,5 +26,5 @@ and creativity blockers.
 ### Where has the Talk Been Accepted/Presented
 
 * [Heartifacts April 2018 video](https://youtu.be/sBwbUVG7CDY)
-* [DevOps MidWest September 2018 slides](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit)
+* [DevOps Midwest September 2018 slides](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit)
 * [All Day DevOps October 2018](https://www.alldaydevops.com/addo-speakers/aaron-goldsmith)
