@@ -4,14 +4,14 @@ A guide, through negative examples, of code review pitfalls.
 
 ## Found Here
 
-* [Slides](https://docs.google.com/presentation/d/1wLlvyI7akh_ybmO0MyzbBROukulH-Tw82RcT8kBuuWg/edit?usp=sharing).
+* Slides (see slides section for different versions).
 * Review comments used in presentation.
 * Conference description and conferences who have accepted the talk.
 
 ### Slides
 
-[Slides (Heartifacts)](https://docs.google.com/presentation/d/1wLlvyI7akh_ybmO0MyzbBROukulH-Tw82RcT8kBuuWg/edit?usp=sharing).
-[Slides (DevOps MidWest)](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit?usp=sharing).
+* [Slides (Heartifacts)](https://docs.google.com/presentation/d/1wLlvyI7akh_ybmO0MyzbBROukulH-Tw82RcT8kBuuWg/edit?usp=sharing).
+* [Slides (DevOps MidWest)](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit?usp=sharing).
 
 ### Presentation Description
 
