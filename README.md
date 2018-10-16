@@ -13,6 +13,7 @@ A guide, through negative examples, of code review pitfalls.
 * [Slides (Heartifacts)](https://docs.google.com/presentation/d/1wLlvyI7akh_ybmO0MyzbBROukulH-Tw82RcT8kBuuWg/edit?usp=sharing).
 * [Slides (DevOps Midwest)](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit?usp=sharing).
 * [Slides (BrightTALK)](https://docs.google.com/presentation/d/1pnnFWhkBuRC2dmyqyRboGGrUW_NR6knkZgzSVTZxyQA/edit?usp=sharing).
+* [Slides (All Day DevOps)](https://docs.google.com/presentation/d/1Jjim-KfZkUStvKueRdTnqXyWSaEspFXv2mt1kjXF6oI/edit?usp=sharing).
 
 ### Presentation Description
 
@@ -29,4 +30,4 @@ and creativity blockers.
 * [Heartifacts April 2018 video](https://youtu.be/sBwbUVG7CDY)
 * [DevOps Midwest September 2018 slides](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit)
 * [BrightTALK webinar slides](https://docs.google.com/presentation/d/1pnnFWhkBuRC2dmyqyRboGGrUW_NR6knkZgzSVTZxyQA/edit?usp=sharing)
-* [All Day DevOps October 2018](https://www.alldaydevops.com/addo-speakers/aaron-goldsmith)
+* [All Day DevOps October 2018 slides](https://docs.google.com/presentation/d/1Jjim-KfZkUStvKueRdTnqXyWSaEspFXv2mt1kjXF6oI/edit?usp=sharing)
