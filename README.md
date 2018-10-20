@@ -30,4 +30,4 @@ and creativity blockers.
 * [Heartifacts April 2018 video](https://youtu.be/sBwbUVG7CDY)
 * [DevOps Midwest September 2018 slides](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit)
 * [BrightTALK webinar slides](https://docs.google.com/presentation/d/1pnnFWhkBuRC2dmyqyRboGGrUW_NR6knkZgzSVTZxyQA/edit?usp=sharing)
-* [All Day DevOps October 2018 slides](https://docs.google.com/presentation/d/1Jjim-KfZkUStvKueRdTnqXyWSaEspFXv2mt1kjXF6oI/edit?usp=sharing)
+* [All Day DevOps October 2018 slides](https://docs.google.com/presentation/d/1Jjim-KfZkUStvKueRdTnqXyWSaEspFXv2mt1kjXF6oI/edit?usp=sharing) and [video](https://youtu.be/2SZwgcLbVa8?t=1810)
