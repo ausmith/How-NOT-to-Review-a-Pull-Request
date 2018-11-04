@@ -1,6 +1,6 @@
 # How NOT to Review a Pull Request
 
-A guide, through negative examples, of code review pitfalls.
+A guide, through negative examples, on avoiding code review pitfalls.
 
 ## Found Here
 
