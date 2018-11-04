@@ -9,3 +9,6 @@ run:
 cleanup:
 	@docker stop hntrapr
 	@docker rm hntrapr
+
+test:
+	@echo "Boom!"
