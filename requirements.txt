@@ -18,7 +18,7 @@ pygobject==3.26.1
 python-dateutil==2.6.1
 pyxdg==0.25
 PyYAML==3.12
-requests==2.18.4
+requests>=2.20.0
 s3transfer==0.1.10
 six==1.10.0
 urllib3==1.22
