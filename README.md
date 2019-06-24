@@ -6,7 +6,8 @@ A guide, through negative examples, on avoiding code review pitfalls.
 
 * Slides (see slides section for different versions).
 * Review comments used in presentation.
-* Conference description and conferences who have accepted the talk.
+* Where the talk has been accepted/presented.
+* How to [make your own code review cheat sheet](make_your_own_cheat_sheet.md).
 
 ### Slides
 
