@@ -15,6 +15,7 @@ A guide, through negative examples, on avoiding code review pitfalls.
 * [Slides (DevOps Midwest)](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit?usp=sharing).
 * [Slides (BrightTALK)](https://docs.google.com/presentation/d/1pnnFWhkBuRC2dmyqyRboGGrUW_NR6knkZgzSVTZxyQA/edit?usp=sharing).
 * [Slides (All Day DevOps)](https://docs.google.com/presentation/d/1Jjim-KfZkUStvKueRdTnqXyWSaEspFXv2mt1kjXF6oI/edit?usp=sharing).
+* [Slides (Abstractions 2019)](https://docs.google.com/presentation/d/14stkV9dDSUsYIURdQNj6QY124Ys2RqLZa3nB_C52RZQ/edit?usp=sharing)
 
 ### Presentation Description
 
@@ -32,3 +33,4 @@ and creativity blockers.
 * [DevOps Midwest September 2018 slides](https://docs.google.com/presentation/d/1NS796mqIxhvx_XrCWJQii5fqbgIBIs5MkD77FsLnk6Y/edit)
 * [BrightTALK webinar slides](https://docs.google.com/presentation/d/1pnnFWhkBuRC2dmyqyRboGGrUW_NR6knkZgzSVTZxyQA/edit?usp=sharing)
 * [All Day DevOps October 2018 slides](https://docs.google.com/presentation/d/1Jjim-KfZkUStvKueRdTnqXyWSaEspFXv2mt1kjXF6oI/edit?usp=sharing) and [youtube video](https://youtu.be/2SZwgcLbVa8?t=1810), [vidyard video](http://play.vidyard.com/Fs7EBxJ7Huv9TA37xyZvKz)
+* [Abstractions 2019 slides](https://docs.google.com/presentation/d/14stkV9dDSUsYIURdQNj6QY124Ys2RqLZa3nB_C52RZQ/edit?usp=sharing)
